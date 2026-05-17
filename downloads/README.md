@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [Hiddify-Windows-Setup-x64](./Hiddify-Windows-Setup-x64)
+- [MahsaNG_16_universal](./MahsaNG_16_universal)
 - [mhr-cfw-go-windows-amd64](./mhr-cfw-go-windows-amd64)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [mitm-psiphon](./mitm-psiphon)
